@@ -26,6 +26,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.logo-letter {
+  font-size: 65px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  font-family: 'Caveat Brush', cursive;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -73,12 +79,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 {
-  font-size: 30px;
+  font-size: 45px;
   margin: 0;
   padding: 2px 0;
   line-height: 1;
   font-weight: 400;
   letter-spacing: 2px;
+  font-family: 'Caveat Brush', cursive;
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
@@ -87,9 +94,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  padding: 0;
+  padding: 0px 0px 10px 0px;
   margin: 0;
-  max-height: 40px;
+  max-height: 55px;
 }
 
 @media (max-width: 992px) {
