@@ -31,7 +31,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   letter-spacing: 2px;
   font-family: 'Caveat Brush', cursive;
+  color:#FF6813 !important;
 }
+
+#title-teacher{color:#0d9edf;}
+#title-student{color:#f3e367;}
+#title-tutor{color:#259b9a;}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -89,7 +95,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #5777ba;
+  /*color: #5777ba;*/
+  color: #FF6813;
   text-decoration: none;
 }
 
@@ -133,7 +140,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #5777ba;
+  /*color: #5777ba;*/
+  color:#FF6813;
   text-decoration: none;
 }
 
@@ -361,7 +369,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 500;
   line-height: 56px;
-  color: #5777ba;
+  /*color: #5777ba;*/
   font-family: "Poppins", sans-serif;
 }
 
@@ -457,7 +465,7 @@ section {
   font-weight: 400;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #5777ba;
+  /*color: #5777ba;*/
   font-family: "Poppins", sans-serif;
 }
 
@@ -1032,11 +1040,11 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #fff;
   padding: 0 0 30px 0;
-  color: #eaedf3;
+  color: #47536e;
   font-size: 14px;
-  background: #eff2f8;
+  /*background: #eff2f8;*/
+  background: #D3EEEB;
 }
 
 #footer .footer-newsletter {
@@ -1114,13 +1122,13 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
-  color: #eaedf3;
+  color: #8a8c95;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #eaedf3;
+  color: #47536e;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1137,7 +1145,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color:  #eaedf3;
+  color: #9fb2d8;
   font-size: 18px;
   line-height: 1;
 }
@@ -1153,7 +1161,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #eaedf3;
+  color: #8a8c95;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1167,8 +1175,8 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #eaedf3;
-  color: rgb(223, 57, 7);
+  background: #5777ba;
+  color: #fff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
