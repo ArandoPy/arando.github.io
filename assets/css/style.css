@@ -31,8 +31,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   letter-spacing: 2px;
   /*color:#FF6813 !important;
-  font-family: 'Caveat Brush', cursive;*/
-  font-family: 'Luckiest Guy', cursive;
+  font-family: 'Caveat Brush', cursive;
+  font-family: 'Luckiest Guy', cursive;*/
+  font-family: 'Paytone One';
   color:#f97e2a !important;
 }
 
@@ -93,8 +94,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 400;
   letter-spacing: 2px;
-  /*font-family: 'Caveat Brush', cursive;*/
-  font-family: 'Luckiest Guy', cursive;
+  /*font-family: 'Caveat Brush', cursive;
+  font-family: 'Luckiest Guy', cursive;*/
+  font-family: 'Paytone One';
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
